@@ -1,0 +1,25 @@
+﻿Marca,Categoria,Produto,SKU,Custo Unitário,Preço Unitário
+Acer,Notebook,Aspire 5,HL1024,1150,2400
+Apple,Celular,iPhone 6S,HL1010,1150,1900
+Apple,Celular,iPhone 7,HL1002,1500,2500
+Apple,Celular,iPhone XS,HL1019,2800,6500
+Apple,Smart Watch,Apple Watch,HL1004,900,1750
+Apple,Tablet,iPad 32GB Wifi,HL1022,350,750
+Canon,Câmera,Câmera Digital Rebel T6,HL1005,850,1500
+Dell,Notebook,Dell G7,HL1012,3200,5500
+Dell,Notebook,Inspiron 15,HL1007,1200,2300
+LG,Televisão,Smart TV 50' 4K,HL1001,1700,2600
+Motorola,Celular,Moto G7,HL1009,750,1400
+Motorola,Celular,Moto Z,HL1020,650,1500
+Nikon,Câmera,Câmera Coolpix L340,HL1013,700,1550
+Philco,Televisão,Smart TV LED Full HD 55',HL1008,1250,2000
+Samsung,Celular,Galaxy J8,HL1014,550,1100
+Samsung,Celular,Galaxy S10,HL1003,2800,4500
+Samsung,Celular,Galaxy S8,HL1021,1400,3000
+Samsung,Notebook,Samsung Dual Core,HL1023,550,1500
+Samsung,Smart Watch,Smart Watch Galaxy,HL1016,700,1450
+Samsung,Tablet,Tablet M10 Android,HL1011,1100,2000
+Samsung,Televisão,Smart TV 75' 4K,HL1017,3500,5200
+Samsung,Televisão,TV LED 32',HL1006,900,1400
+Sony,Câmera,Câmera Digital Sony Cyber,HL1015,300,700
+Xiaomi,Smart Watch,Smart Watch MI,HL1018,650,1200
